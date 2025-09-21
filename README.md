@@ -3,7 +3,8 @@ Thuso AI is a mobile and web platform designed to provide gender-based violence 
 
 # Stacks
 - Python :- FastAPI
-- React
+- NextJS
+- NodeJS
 - MongoDB
 - Material UI
 - Docker
