@@ -2,7 +2,7 @@
     build/
     dist/
     node_modules/
-    
+
 
     # Ignore log files
     *.log
@@ -14,9 +14,6 @@
 
 
     # Ignore environment variables file
-    .env.development.local
-    .env.development
-    .env.local
     .env
 
     # Exception to a rule
