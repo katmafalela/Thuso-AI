@@ -9,3 +9,4 @@ Thuso AI is a mobile and web platform designed to provide gender-based violence 
 - Material UI
 - Docker
 
+BOPHelo0727*

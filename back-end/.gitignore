@@ -1,0 +1,23 @@
+    # Ignore build artifacts
+    build/
+    dist/
+    node_modules/
+    
+
+    # Ignore log files
+    *.log
+
+
+    # Ignore temporary files
+    *.tmp
+    temp/
+
+
+    # Ignore environment variables file
+    .env.development.local
+    .env.development
+    .env.local
+    .env
+
+    # Exception to a rule
+    !build/important_output.txt
